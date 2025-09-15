@@ -158,12 +158,3 @@ COMSATS University, Lahore
 
 ---
 
-## 📊 GitHub Stats
-
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-shakeel&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-shakeel&layout=compact&theme=radical)
-
----
-
-*"Passionate about creating innovative solutions and contributing to impactful products while continuously learning and growing in the ever-evolving world of technology."*
