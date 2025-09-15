@@ -1,67 +1,169 @@
-**Hi there, I'm Ali Shakeel 👋**
+# Hi there, I'm Ali Shakeel 👋
 
-Software Engineer | Full-Stack Developer | SAAS Enthusiast
+**Software Engineer | Full-Stack Developer | SAAS Enthusiast**
+
 I'm a passionate Software Engineer with a strong interest in building modern web applications and full-stack solutions. I enjoy working on projects that involve problem-solving, optimization, and creating impactful products. I'm always eager to learn new technologies and collaborate with dynamic teams.
 
-**🚀 Technologies & Tools**
+---
 
-Programming Languages: JavaScript, TypeScript, Kotlin, Java, SQL, HTML, CSS
-Frameworks & Libraries: React.js, Next.js, Node.js, Express.js, Redux, Bootstrap, Tailwind CSS
-Databases & ORMs: PostgreSQL, MySQL, MongoDB, Prisma ORM, Room Database SQLite
-Tools & Platforms: AWS, GitHub, GitHub Actions, Hostinger, Android Studio, Google Play Console
+## 👨‍💻 About Me
 
+🎓 **Fresh Graduate** from COMSATS University Lahore with a degree in Software Engineering
 
-**🔧 Projects**
+💼 **1+ Years** of hands-on experience in full-stack development and mobile app development
 
-📱 MovePro CRM (Final Year Project)
+🌟 **Specialized** in React.js, Node.js, Android development, and SaaS architecture
 
-Description: Developing a multi-tenant SaaS for moving companies with comprehensive business management solutions.
-Tech Stack: React, Node.js, Express, PostgreSQL, AWS, Hostinger
-Features: Role-based authentication, multi-tenant architecture, order/inventory management, scheduling system
+🚀 **Currently developing** MovePro CRM - a multi-tenant SaaS platform for moving companies
 
-🛒 Admin Panel Development
+🌐 **Built & deployed** multiple corporate websites and admin panels
 
-Description: Developed fully responsive admin panels with integrated payment systems and inventory management.
-Tech Stack: React.js, Redux, Stripe API, React-Table, React-Hook-Form, Joi
-Features: RESTful API integration, custom forms with validation, paginated tables with search/filter
+📱 **Experienced** in Android app development with focus on media applications
 
-📱 Android Applications
+💡 **Passionate** about clean code, scalable architecture, and user-centric design
 
-Description: Developed and maintained Android applications including video downloader and player applications.
-Tech Stack: Kotlin, Java, Android Studio
-Features: Data scraping, optimized performance, smooth video playback
+🎯 **Goal-oriented** with strong analytical and creative problem-solving skills
 
-🌐 Corporate Websites
+🤝 **Team player** who thrives in collaborative environments and agile workflows
 
-Description: Designed, deployed, and hosted multiple corporate websites with business email configuration.
-Live Sites: ecopakservices.com, unicoredtech.com, unicoredlogistics.com, fainteriors.online
+📍 **Based** in Lahore, Pakistan - open to remote opportunities worldwide
 
+### What I Love:
 
-**💼 Professional Experience**
+- 🔧 Building efficient, scalable web applications
+- 📊 Working with databases and optimizing queries
+- 🎨 Creating intuitive user interfaces and experiences
+- 🔐 Implementing secure authentication and authorization systems
+- 📈 Learning new technologies and staying updated with industry trends
+- 🤖 Exploring the intersection of AI and web development
 
-Full Stack Developer @ Unicored Technologies (May 2025 – August 2025)
+---
 
-Developed responsive front-end designs and integrated payment gateways
-Created custom forms and implemented advanced table functionalities
+## 🚀 Technologies & Tools
 
-Backend Developer @ MovePro CRM (September 2024 – May 2025)
+**Programming Languages:**
+- JavaScript, TypeScript, Kotlin, Java, SQL, HTML, CSS
 
-Built multi-tenant SaaS architecture with role-based permissions
-Developed comprehensive business management modules
+**Frameworks & Libraries:**
+- React.js, Next.js, Node.js, Express.js, Redux, Bootstrap, Tailwind CSS
 
-Android Developer @ AinSoft Tech (September 2023 – December 2024)
+**Databases & ORMs:**
+- PostgreSQL, MySQL, MongoDB, Prisma ORM, Room Database SQLite
 
-Developed and optimized Android applications with focus on performance
-Implemented data scraping and video processing functionalities
+**Tools & Platforms:**
+- AWS, GitHub, GitHub Actions, Hostinger, Android Studio, Google Play Console
 
+---
 
-**🎓 Education**
-Bachelor of Software Engineering (BSSE) - COMSATS University, Lahore
-Duration: September 2021 – May 2025
+## 🔧 Projects
 
-📫 Let's Connect!
+### 📱 MovePro CRM (Final Year Project)
 
-Email: Mayoali880@gmail.com
-LinkedIn: [Ali Shakeel](https://www.linkedin.com/in/ali-shakeel-933118256/)
-GitHub:[ @ali-shakeel](https://github.com/ali-shakeel880)
-Location: Lahore, Punjab, Pakistan 🇵🇰
+**Description:** Developing a multi-tenant SaaS for moving companies with comprehensive business management solutions.
+
+**Tech Stack:** React, Node.js, Express, PostgreSQL, AWS, Hostinger
+
+**Key Features:**
+- Role-based authentication and permissions
+- Multi-tenant architecture with data segregation
+- Order and inventory management systems
+- Scheduling and calendar features
+- Employee and truck management modules
+
+### 🛒 Admin Panel Development
+
+**Description:** Developed fully responsive admin panels with integrated payment systems and inventory management.
+
+**Tech Stack:** React.js, Redux, Stripe API, React-Table, React-Hook-Form, Joi
+
+**Key Features:**
+- RESTful API integration
+- Custom forms with validation
+- Paginated tables with search and filter functionality
+- Stripe payment gateway integration
+
+### 📱 Android Applications
+
+**Description:** Developed and maintained Android applications including video downloader and player applications.
+
+**Tech Stack:** Kotlin, Java, Android Studio
+
+**Key Features:**
+- Data scraping techniques for video downloading
+- Optimized performance for smooth playback
+- User-friendly interface design
+- Reliable download functionality
+
+### 🌐 Corporate Websites
+
+**Description:** Designed, deployed, and hosted multiple corporate websites with business email configuration.
+
+**Live Sites:**
+- ecopakservices.com
+- unicoredtech.com
+- unicoredlogistics.com
+- fainteriors.online
+
+---
+
+## 💼 Professional Experience
+
+### Full Stack Developer @ Unicored Technologies
+**Duration:** May 2025 – August 2025
+
+- Developed responsive front-end designs using React.js and Redux
+- Integrated RESTful APIs for authentication and payment systems
+- Implemented advanced table functionalities with React-Table
+- Created custom forms with proper validation using React-Hook-Form and Joi
+
+### Backend Developer @ MovePro CRM
+**Duration:** September 2024 – May 2025
+
+- Built multi-tenant SaaS architecture with role-based permissions
+- Developed comprehensive business management modules
+- Implemented scheduling and calendar systems
+- Ensured data segregation for multi-tenant environment
+
+### Android Developer @ AinSoft Tech
+**Duration:** September 2023 – December 2024
+
+- Developed and optimized Android applications with focus on performance
+- Implemented data scraping and video processing functionalities
+- Collaborated on user experience optimization
+- Maintained and updated existing applications
+
+---
+
+## 🎓 Education
+
+**Bachelor of Software Engineering (BSSE)**
+
+COMSATS University, Lahore
+
+**CGPA:** 3.12/4.0
+
+**Duration:** September 2021 – May 2025
+
+---
+
+## 📫 Let's Connect!
+
+**Email:** [Mayoali880@gmail.com](mailto:Mayoali880@gmail.com)
+
+**LinkedIn:** [Ali Shakeel](https://linkedin.com/in/ali-shakeel)
+
+**GitHub:** [@ali-shakeel](https://github.com/ali-shakeel)
+
+**Location:** Lahore, Punjab, Pakistan 🇵🇰
+
+---
+
+## 📊 GitHub Stats
+
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-shakeel&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-shakeel&layout=compact&theme=radical)
+
+---
+
+*"Passionate about creating innovative solutions and contributing to impactful products while continuously learning and growing in the ever-evolving world of technology."*
