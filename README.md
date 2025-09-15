@@ -140,8 +140,6 @@ I'm a passionate Software Engineer with a strong interest in building modern web
 
 COMSATS University, Lahore
 
-**CGPA:** 3.12/4.0
-
 **Duration:** September 2021 – May 2025
 
 ---
