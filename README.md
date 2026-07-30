@@ -1,158 +1,101 @@
-# Hi there, I'm Ali Shakeel 👋
+<h1 align="center">Hi 👋, I'm Ali Shakeel</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Java & Spring Boot</h3>
 
-**Software Engineer | Full-Stack Developer | SAAS Enthusiast**
-
-I'm a passionate Software Engineer with a strong interest in building modern web applications and full-stack solutions. I enjoy working on projects that involve problem-solving, optimization, and creating impactful products. I'm always eager to learn new technologies and collaborate with dynamic teams.
-
----
-
-## 👨‍💻 About Me
-
-🎓 **Fresh Graduate** from COMSATS University Lahore with a degree in Software Engineering
-
-💼 **1+ Years** of hands-on experience in full-stack development and mobile app development
-
-🌟 **Specialized** in React.js, Node.js, Android development, and SaaS architecture
-
-🚀 **Currently developing** MovePro CRM - a multi-tenant SaaS platform for moving companies
-
-🌐 **Built & deployed** multiple corporate websites and admin panels
-
-📱 **Experienced** in Android app development with focus on media applications
-
-💡 **Passionate** about clean code, scalable architecture, and user-centric design
-
-🎯 **Goal-oriented** with strong analytical and creative problem-solving skills
-
-🤝 **Team player** who thrives in collaborative environments and agile workflows
-
-📍 **Based** in Lahore, Pakistan - open to remote opportunities worldwide
-
-### What I Love:
-
-- 🔧 Building efficient, scalable web applications
-- 📊 Working with databases and optimizing queries
-- 🎨 Creating intuitive user interfaces and experiences
-- 🔐 Implementing secure authentication and authorization systems
-- 📈 Learning new technologies and staying updated with industry trends
-- 🤖 Exploring the intersection of AI and web development
+<p align="center">
+  <a href="https://www.linkedin.com/in/alishakeel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:Mayoali880@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-## 🚀 Technologies & Tools
+### 🚀 About Me
 
-**Programming Languages:**
-- JavaScript, TypeScript, Kotlin, Java, SQL, HTML, CSS
-
-**Frameworks & Libraries:**
-- React.js, Next.js, Node.js, Express.js, Redux, Bootstrap, Tailwind CSS
-
-**Databases & ORMs:**
-- PostgreSQL, MySQL, MongoDB, Prisma ORM, Room Database SQLite
-
-**Tools & Platforms:**
-- AWS, GitHub, GitHub Actions, Hostinger, Android Studio, Google Play Console
+- 💻 Full Stack Developer with **2+ years** of experience building scalable web applications
+- 🛠️ Primarily work with the **MERN stack** (MongoDB, Express.js, React.js, Node.js), with backend experience in **Java & Spring Boot**
+- 🏢 Currently building production web apps and REST APIs at **Ainsoft Tech**
+- 🎓 Built a multi-tenant SaaS CRM platform (**MovePro CRM**) as my final year project — auth, role-based access, scheduling, inventory, and reporting
+- 🤖 Use AI-assisted dev tools (**Claude**, **Cursor**) daily to speed up debugging, code review, and documentation
+- 📫 Reach me at **Mayoali880@gmail.com**
 
 ---
 
-## 🔧 Projects
+### 🧰 Tech Stack
 
-### 📱 MovePro CRM (Final Year Project)
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+</p>
 
-**Description:** Developing a multi-tenant SaaS for moving companies with comprehensive business management solutions.
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+</p>
 
-**Tech Stack:** React, Node.js, Express, PostgreSQL, AWS, Hostinger
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+</p>
 
-**Key Features:**
-- Role-based authentication and permissions
-- Multi-tenant architecture with data segregation
-- Order and inventory management systems
-- Scheduling and calendar features
-- Employee and truck management modules
+**Tools & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
+</p>
 
-### 🛒 Admin Panel Development
-
-**Description:** Developed fully responsive admin panels with integrated payment systems and inventory management.
-
-**Tech Stack:** React.js, Redux, Stripe API, React-Table, React-Hook-Form, Joi
-
-**Key Features:**
-- RESTful API integration
-- Custom forms with validation
-- Paginated tables with search and filter functionality
-- Stripe payment gateway integration
-
-### 📱 Android Applications
-
-**Description:** Developed and maintained Android applications including video downloader and player applications.
-
-**Tech Stack:** Kotlin, Java, Android Studio
-
-**Key Features:**
-- Data scraping techniques for video downloading
-- Optimized performance for smooth playback
-- User-friendly interface design
-- Reliable download functionality
-
-### 🌐 Corporate Websites
-
-**Description:** Designed, deployed, and hosted multiple corporate websites with business email configuration.
-
-**Live Sites:**
-- ecopakservices.com
-- unicoredtech.com
-- unicoredlogistics.com
-- fainteriors.online
+**AI-Assisted Development**
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat" />
+</p>
 
 ---
 
-## 💼 Professional Experience
+### 📌 Featured Project
 
-### Full Stack Developer @ Unicored Technologies
-**Duration:** May 2025 – August 2025
+**MovePro CRM** — Multi-tenant SaaS CRM platform
+- Built with the MERN stack + PostgreSQL
+- JWT-based, role-based authentication and access control
+- Order management, scheduling, and inventory tracking modules
+- React.js + Tailwind CSS dashboard for multi-tenant admins
 
-- Developed responsive front-end designs using React.js and Redux
-- Integrated RESTful APIs for authentication and payment systems
-- Implemented advanced table functionalities with React-Table
-- Created custom forms with proper validation using React-Hook-Form and Joi
-
-### Backend Developer @ MovePro CRM
-**Duration:** September 2024 – May 2025
-
-- Built multi-tenant SaaS architecture with role-based permissions
-- Developed comprehensive business management modules
-- Implemented scheduling and calendar systems
-- Ensured data segregation for multi-tenant environment
-
-### Android Developer @ AinSoft Tech
-**Duration:** September 2023 – December 2024
-
-- Developed and optimized Android applications with focus on performance
-- Implemented data scraping and video processing functionalities
-- Collaborated on user experience optimization
-- Maintained and updated existing applications
+> _Add the repo link here once it's public: `[MovePro CRM](https://github.com/alishakeel/movepro-crm)`_
 
 ---
 
-## 🎓 Education
+### 📊 GitHub Stats
 
-**Bachelor of Software Engineering (BSSE)**
-
-COMSATS University, Lahore
-
-**Duration:** September 2021 – May 2025
-
----
-
-## 📫 Let's Connect!
-
-**Email:** [Mayoali880@gmail.com](mailto:Mayoali880@gmail.com)
-
-**LinkedIn:** [Ali Shakeel](https://linkedin.com/in/ali-shakeel)
-
-**GitHub:** [@ali-shakeel](https://github.com/ali-shakeel)
-
-**Location:** Lahore, Punjab, Pakistan 🇵🇰
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alishakeel&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alishakeel" height="165" />
+</p>
 
 ---
 
+### 📫 Connect With Me
+
+- 💼 LinkedIn: [linkedin.com/in/alishakeel](https://www.linkedin.com/in/alishakeel)
+- 📧 Email: Mayoali880@gmail.com
+- 📱 Phone: +92 321 3131641
+
+<p align="center"><i>Open to Full Stack Developer roles — MERN stack, Java/Spring Boot, and AI-assisted development.</i></p>
