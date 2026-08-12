@@ -64,7 +64,7 @@
 
 ---
 
-### 📌 Featured Project
+### 📌 Featured Projects
 
 **MovePro CRM** — Multi-tenant SaaS platform for moving companies
 - Role-based authentication, permissions, and company-level data segregation
@@ -72,14 +72,23 @@
 - Scheduling and calendar system for move booking and resource allocation
 - Stack: React, Node.js, Express.js, PostgreSQL, Prisma ORM, AWS
 
+**HRM System** — Unicored Technologies
+- Employee management platform covering onboarding, attendance, and records
+- Role-based access control for admins, managers, and employees
+- Centralized dashboard for HR operations and reporting
+- Stack: React.js, Redux, Node.js, Express.js, PostgreSQL
+
+**Leads Tracking System** — Unicored Technologies
+- Sales pipeline tool for capturing, assigning, and tracking leads across the sales team
+- Status tracking, filtering, and search for managing leads through each stage
+- Dashboards and reporting to monitor sales team performance
+- Stack: React.js, Redux, Node.js, Express.js, PostgreSQL
+
 ---
 
 ### 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Mayoali880@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
-
 ---
 
 <p align="center"><i>Building faster with AI-assisted development, without cutting corners on quality.</i></p>
