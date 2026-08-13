@@ -22,31 +22,31 @@
 
 ## 👋 About Me
 
-I'm a Full Stack Software Engineer specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), with production experience building **multi-tenant SaaS platforms**, **internal business systems**, and **AI-augmented development workflows**. I pair traditional engineering discipline with modern AI tooling — Claude, Gemini Pro, GPT-4, and Antigravity — to ship faster without sacrificing code quality or architecture decisions.
+I'm a Full Stack Software Engineer specializing in the **MERN stack** (MongoDB, Express.js, React.js, Node.js), with production experience building **multi-tenant SaaS platforms**, **internal business systems**, and **AI-augmented development workflows**. I pair traditional engineering discipline with modern AI tooling  Claude, Gemini Pro, GPT-4, and Antigravity to ship faster without sacrificing code quality or architecture decisions.
 
 - 🔭 Currently working as a **Full Stack Developer at Unicored Technologies** (Jul 2024 – Present)
 - 🛠️ Previously built **MovePro CRM**, a multi-tenant SaaS platform for moving companies, at **Virtual Proz** (Germany, remote, part-time)
-- 🌱 Actively deepening AI/LLM-integrated development — prompt engineering, agentic coding workflows, and AI-powered feature building
+- 🌱 Actively deepening AI/LLM-integrated development  prompt engineering, agentic coding workflows, and AI-powered feature building
 - 🎓 BS Software Engineering, COMSATS University Lahore
 - 💬 Open to remote full-time roles, contract work, and freelance projects
 - ⚡ Daily driver tools: Claude, Gemini Pro, GPT-4, Antigravity, VS Code, Postman, Git
 
 ## 🧭 Why Work With Me
 
-✅ **Proof, not promises** — Three real, production-grade systems below, not tutorial clones
+✅ **Proof, not promises** Three real, production-grade systems below, not tutorial clones
 
-⚡ **AI-augmented workflow** — Daily use of Claude, Gemini Pro, and GPT-4 for scaffolding, debugging, and review, while owning every architecture decision myself
+⚡ **AI-augmented workflow** Daily use of Claude, Gemini Pro, and GPT-4 for scaffolding, debugging, and review, while owning every architecture decision myself
 
-🌍 **Remote-ready** — Comfortable with US/EU time-zone overlap, async communication, and Git-based collaboration
+🌍 **Remote-ready** Comfortable with US/EU time-zone overlap, async communication, and Git-based collaboration
 
-🏗️ **Full lifecycle experience** — Database schema, REST API design, deployment, hosting, and DNS/domain setup
+🏗️ **Full lifecycle experience**  Database schema, REST API design, deployment, hosting, and DNS/domain setup
 
-🗣️ **Clear communication** — Used to working directly with international, non-technical stakeholders
+🗣️ **Clear communication**  Used to working directly with international, non-technical stakeholders
 
 ## 📌 Featured Projects
 
 ### 🚚 MovePro CRM
-**Multi-tenant SaaS platform for moving companies** — *Virtual Proz, Germany (Remote, Part-Time)*
+**Multi-tenant SaaS platform for moving companies**  *Virtual Proz, Germany (Remote, Part-Time)*
 
 A full multi-tenant SaaS product built end-to-end, supporting multiple independent moving companies on one platform with isolated data per tenant.
 
@@ -56,7 +56,7 @@ A full multi-tenant SaaS product built end-to-end, supporting multiple independe
 - **Stack:** React, Node.js, Express.js, PostgreSQL, Prisma ORM, AWS
 
 ### 👥 HRM System
-**Employee management platform** — *Unicored Technologies*
+**Employee management platform**  *Unicored Technologies*
 
 An internal HR platform covering the employee lifecycle from onboarding to daily attendance tracking.
 
@@ -66,7 +66,7 @@ An internal HR platform covering the employee lifecycle from onboarding to daily
 - **Stack:** React.js, Redux, Node.js, Express.js, PostgreSQL
 
 ### 📈 Leads Tracking System
-**Sales pipeline tool** — *Unicored Technologies*
+**Sales pipeline tool**  *Unicored Technologies*
 
 A sales-focused CRM module for capturing and tracking leads across the full sales pipeline.
 
