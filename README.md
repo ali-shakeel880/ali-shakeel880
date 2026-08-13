@@ -5,9 +5,7 @@
 
 <!-- ================= TYPING TAGLINE ================= -->
 <p align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN)+%7C+React.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+Production+SaaS+Platforms;AI-Assisted+Development+with+Claude%2C+Gemini+Pro%2C+GPT-4;Open+to+Remote+Work+%7C+Based+in+Lahore%2C+Pakistan" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Calibri&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN)+%7C+React.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;Building+Production+SaaS+Platforms;AI-Assisted+Development+with+Claude%2C+Gemini+Pro%2C+GPT-4;Open+to+Remote+Work+%7C+Based+in+Lahore%2C+Pakistan" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,12 +16,9 @@
 
 <p align="center">
   📧 <a href="mailto:Mayoali880@gmail.com">Mayoali880@gmail.com</a> &nbsp;|&nbsp;
-  💼 <a href="#">LinkedIn</a> &nbsp;|&nbsp;
-  📄 <a href="#">Resume</a> &nbsp;|&nbsp;
-  🐙 <a href="#">GitHub</a>
+  💼 <a href="https://www.linkedin.com/in/ali-shakeel786/">LinkedIn</a> &nbsp;|&nbsp;
+  🐙 <a href="https://github.com/ali-shakeel880">GitHub</a>
 </p>
-
----
 
 ## 👋 About Me
 
@@ -36,19 +31,17 @@ I'm a Full Stack Software Engineer specializing in the **MERN stack** (MongoDB, 
 - 💬 Open to remote full-time roles, contract work, and freelance projects
 - ⚡ Daily driver tools: Claude, Gemini Pro, GPT-4, Antigravity, VS Code, Postman, Git
 
----
-
 ## 🧭 Why Work With Me
 
-| | |
-|---|---|
-| ✅ **Proof, not promises** | Three real, production-grade systems below — not tutorial clones |
-| ⚡ **AI-augmented workflow** | Daily use of Claude, Gemini Pro, and GPT-4 for scaffolding, debugging, and review — while owning every architecture decision myself |
-| 🌍 **Remote-ready** | Comfortable with US/EU time-zone overlap, async communication, and Git-based collaboration |
-| 🏗️ **Full lifecycle experience** | Database schema → REST API design → deployment → hosting → DNS/domain setup |
-| 🗣️ **Clear communication** | Used to working directly with international, non-technical stakeholders |
+✅ **Proof, not promises** — Three real, production-grade systems below, not tutorial clones
 
----
+⚡ **AI-augmented workflow** — Daily use of Claude, Gemini Pro, and GPT-4 for scaffolding, debugging, and review, while owning every architecture decision myself
+
+🌍 **Remote-ready** — Comfortable with US/EU time-zone overlap, async communication, and Git-based collaboration
+
+🏗️ **Full lifecycle experience** — Database schema, REST API design, deployment, hosting, and DNS/domain setup
+
+🗣️ **Clear communication** — Used to working directly with international, non-technical stakeholders
 
 ## 📌 Featured Projects
 
@@ -62,11 +55,6 @@ A full multi-tenant SaaS product built end-to-end, supporting multiple independe
 - Scheduling and calendar system for move booking and resource allocation
 - **Stack:** React, Node.js, Express.js, PostgreSQL, Prisma ORM, AWS
 
-`🔗 Live demo / repo link — add here`
-`🖼️ Screenshot — add here`
-
----
-
 ### 👥 HRM System
 **Employee management platform** — *Unicored Technologies*
 
@@ -77,11 +65,6 @@ An internal HR platform covering the employee lifecycle from onboarding to daily
 - Centralized dashboard for HR operations and reporting
 - **Stack:** React.js, Redux, Node.js, Express.js, PostgreSQL
 
-`🔗 Repo link — add here`
-`🖼️ Screenshot — add here`
-
----
-
 ### 📈 Leads Tracking System
 **Sales pipeline tool** — *Unicored Technologies*
 
@@ -91,13 +74,6 @@ A sales-focused CRM module for capturing and tracking leads across the full sale
 - Filtering and search for managing leads at scale
 - Dashboards and reporting for sales team performance
 - **Stack:** React.js, Redux, Node.js, Express.js, PostgreSQL
-
-`🔗 Repo link — add here`
-`🖼️ Screenshot — add here`
-
-> 💡 **Action item:** Pin these three repos to the top of your GitHub profile (Profile → Customize your pins) so they're the first thing a recruiter sees. Add real screenshots/GIFs to each repo's own README — profiles with visual proof convert noticeably better than text-only descriptions.
-
----
 
 ## 🧰 Tech Stack
 
@@ -112,31 +88,12 @@ A sales-focused CRM module for capturing and tracking leads across the full sale
 **AI & Prompt Engineering:** Claude (Anthropic API), Google Gemini Pro, GPT-4, Antigravity, AI-Assisted / Vibe Coding, LLM-Integrated Workflows
 **Tools & Platforms:** Git, GitHub, GitHub Actions, AWS, Vercel, Postman, CI/CD
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default&hide_border=true&title_color=1F3864&icon_color=378ADD&text_color=333333" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true&title_color=1F3864&text_color=333333" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&hide_border=true&background=FFFFFF&stroke=1F3864&ring=378ADD&fire=BA7517&currStreakLabel=1F3864" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
-> ⚠️ Replace `your-github-username` in the four image URLs above with your real GitHub username — these are live widgets that pull your actual stats automatically once updated.
-
----
-
 ## 📫 Let's Talk
 
 <p align="center">
   <a href="mailto:Mayoali880@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/ali-shakeel786/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/ali-shakeel880"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center"><i>Available for remote full-time roles, contract, and freelance work.</i></p>
